@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://shortlyurlshortener.herokuapp.com)
+- Live Site URL: [shortly url shortener](https://shortlyurlshortener.herokuapp.com)
 
 
 ### Built with
